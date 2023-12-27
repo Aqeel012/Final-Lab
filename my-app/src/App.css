@@ -1,0 +1,320 @@
+ /* App.css */
+
+/* DragonsPage Container */
+.dragons-page-container {
+  padding: 20px;
+}
+
+/* DragonsPage Title */
+.dragons-page-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Dragon List */
+.dragon-list {
+  list-style: none;
+  padding: 0;
+}
+
+/* Dragon Item */
+.dragon-item {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Reserve Dragon Button */
+.reserve-dragon-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Cancel Reservation Button */
+.cancel-reservation-button {
+  background-color: #f44336;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* App.css */
+
+/* MissionsPage Container */
+.missions-page-container {
+  padding: 20px;
+}
+
+/* MissionsPage Title */
+.missions-page-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Mission List */
+.mission-list {
+  list-style: none;
+  padding: 0;
+}
+
+/* Mission Item */
+.mission-item {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Join Mission Button */
+.join-mission-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Leave Mission Button */
+.leave-mission-button {
+  background-color: #f44336;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* App.css */
+
+/* MyProfilePage Container */
+.my-profile-page-container {
+  padding: 20px;
+  
+}
+
+
+/* MyProfilePage Title */
+.my-profile-page-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Reserved Dragons Title */
+.reserved-dragons-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+/* Reserved Dragons List */
+.reserved-dragons-list {
+  list-style: none;
+  padding: 0;
+}
+
+/* Reserved Dragon Item */
+.reserved-dragon-item {
+  margin-bottom: 5px;
+}
+
+/* Reserved Missions Title */
+.reserved-missions-title {
+  font-size: 18px;
+  margin-top: 20px; /* Add margin between sections */
+  margin-bottom: 10px;
+}
+
+/* Reserved Missions List */
+.reserved-missions-list {
+  list-style: none;
+  padding: 0;
+}
+
+/* Reserved Mission Item */
+.reserved-mission-item {
+  margin-bottom: 5px;
+}
+
+/* App.css */
+
+/* ... (previous styles) */
+
+/* Profile Table */
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+/* Table Header */
+.profile-table th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Table Cell */
+.profile-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+/* ... (other styles) */
+/* App.css */
+
+/* ... (previous styles) */
+
+/* Dragon Card */
+.dragon-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+/* Dragon Image */
+/* App.css */
+
+/* ... (previous styles) */
+
+/* Dragon Image */
+.dragon-image {
+  width: 200px; /* Set your desired width */
+  height: auto;
+}
+
+/* ... (other styles) */
+/* App.css */
+
+/* ... (previous styles) */
+
+/* Missions Table */
+.missions-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+/* Table Header */
+.missions-table th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Table Cell */
+.missions-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+/* Join Mission Button */
+.join-mission-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Leave Mission Button */
+.leave-mission-button {
+  background-color: #f44336;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* ... (other styles) */
+
+
+/* Dragon Details */
+.dragon-details {
+  padding: 20px;
+}
+
+/* Dragon Name */
+.dragon-details h2 {
+  margin-top: 0;
+}
+
+/* Dragon Description */
+.dragon-details p {
+  margin-bottom: 10px;
+}
+
+/* Reserve Dragon Button */
+.reserve-dragon-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Cancel Reservation Button */
+.cancel-reservation-button {
+  background-color: #f44336;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* ... (other styles) */
+/* App.css */
+
+/* Main Container */
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+.app-header {
+  background-color: #333;
+  padding: 10px;
+}
+
+/* Navigation Bar */
+.navbar {
+  overflow: hidden;
+}
+
+/* Navigation Bar List */
+.navbar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation Bar List Item */
+.navbar-list-item {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+/* Navigation Bar List Link */
+.navbar-list-link {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+
+/* Content Container */
+.content-container {
+  padding: 20px;
+}
